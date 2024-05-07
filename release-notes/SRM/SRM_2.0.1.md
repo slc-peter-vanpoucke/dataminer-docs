@@ -9,6 +9,9 @@ uid: SRM_2.0.1
 >
 > For detailed information on how to start implementing or updating the custom Automation scripts, see [SRM scripting using the SRM Dev Pack](xref:srm_scripting_devpack). For existing scripts, in addition to installing the NuGet, you will need to [review the required namespaces](xref:srm_scripting_devpack#updating-the-srm-namespaces).
 
+> [!NOTE]
+> This version requires that **DataMiner 10.3.2.0 – 12627 or higher** is installed. The DataMiner Main Release track is not supported.
+
 ## Enhancements
 
 #### New ServiceManagement.CreateReservationService method [ID_39096]
